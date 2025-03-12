@@ -1,4 +1,4 @@
-this hello from vijay....!!!!!!
+this hello ..!!!!
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
