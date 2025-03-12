@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 welcome to my git hub......!!!!!!!!
+=======
+this hello from vijay....!!!!!!
+>>>>>>> vijay
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
