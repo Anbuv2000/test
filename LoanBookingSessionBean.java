@@ -1,4 +1,4 @@
-this is my second commit......;
+this is my fourth commit......;
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
