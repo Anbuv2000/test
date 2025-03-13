@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 hello from tham iha......!!!!!!!!
 =======
-this hello from vijay....!!!!!!
+this hello from team iha....!!!!!!
 >>>>>>> vijay
 public class SpiralPatternExample2
 {  
