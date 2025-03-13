@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 welcome to my git hub......!!!!!!!!
 =======
 this hello from vijay....!!!!!!
+>>>>>>> vijay
+=======
+this hello ..!!!!
 >>>>>>> vijay
 public class SpiralPatternExample2
 {  
